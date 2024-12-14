@@ -34,7 +34,7 @@ pkg install proot
 
 pkg update -y && pkg upgrade -y
 
-Now your terminal is setup lets move onto the kali install build.
+Now your terminal is setup lets move onto the kali install/build.
 
 {SIDE NOTE.
 If install stops repeat this in your cmd line until instalation continues it gets and installs missing pkgs  
