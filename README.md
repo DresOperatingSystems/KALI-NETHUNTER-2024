@@ -115,8 +115,6 @@ I am on a rootless device but as you can see I have rooted nethunter. I have spe
 
 A better way to install NH and the only rooted version for both rooted and rootless devices, and now my way the rooted way is now one of the only ways to use nethunter with 0 errors 0 bugs 0 stress. I have spent hours puzzling the Pieces together to get it working again of my own free will, i managed to do this as i specialise in bash and used my knowledge of termux to create this version building a desktop env for nethunter rather than using an installer that comes with a bunch of bugs Everyone can now have access to a linux distro, No matter if your Device is rooted or not and best part about it it doesnt touch your main OS so enjoy my freinds.
 
-With thanks to https://github.com/EXALAB and https://github.com/gujjwal00 who without them this wouldn't be possible
-
 ~$ ZłO
 
 ![1000462856](https://github.com/user-attachments/assets/f74e8b29-a1af-45ec-8e9f-13fbfb04f92e)
