@@ -12,7 +12,11 @@ https://github.com/gujjwal00/avnc
 After termux installation open termux to set it up by following these steps 
 {C&P1BY1&YFOREVERYTHING} 
 
-pkg update -y && pkg upgrade -y && pkg install x11-repo -y && apt update -y && apt full-upgrade -y 
+pkg update && pkg upgrade -y 
+
+pkg install x11-repo -y 
+
+apt get-update && apt full-upgrade -y 
 
 termux-setup-storage 
 
@@ -43,7 +47,7 @@ if you are really stuck look at my SS if not feel free to contact me}
 
 {C&P1BY1}
 
-pkg install wget openssl-tool proot -y && hash -r && wget https://<i></i>raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh
+pkg install wget openssl-tool proot -y && hash -r && wget https:<i></i>//raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh
 
 After kali has installed start it by inputting,
 ./start-kali.sh
@@ -51,7 +55,7 @@ After kali has installed start it by inputting,
 Once your cmd line changes to root@localhost:~# continue following my steps.
 {C&P1BY1}
 
-wget https://<i></i>raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh --no-check-certificate && bash de-apt-xfce4.sh
+wget https:<i></i>//raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh --no-check-certificate && bash de-apt-xfce4.sh
 
 Just follow the installation steps after installation carry on following my steps
 {C&P1BY1}
