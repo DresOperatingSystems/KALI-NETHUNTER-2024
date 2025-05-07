@@ -5,7 +5,8 @@ Approx 45min - 1hour depending on your network. minimum device requirements 2gb 
 
 DEPENDICIES:
 
-Download termux for droid either via this link or via the github repository I suggest you do not download the google play store one as it has no regular updates. https://fdroid.org/repo/com.termux_118.apk 
+Download termux for droid either via this link or via the github repository I suggest you do not download the google play store one as it has no regular updates.  
+https://f-droid.org/repo/com.termux_1021.apk
 Also I reccomend this VNC apk for your desktop environment.
 https://github.com/gujjwal00/avnc
 
@@ -36,7 +37,7 @@ pkg install rust
 
 pkg install proot
 
-pkg update -y && pkg upgrade -y
+pkg update && pkg upgrade -y
 
 Now your terminal is setup lets move onto the kali install/build.
 
@@ -60,7 +61,7 @@ wget https:<i></i>//raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Sc
 Just follow the installation steps after installation carry on following my steps
 {C&P1BY1}
 
-apt update -y && apt full-upgrade -y 
+apt update && apt full-upgrade -y 
 
 apt install -y kali-linux-nethunter 
 
@@ -75,7 +76,7 @@ apt install apt-file
 apt-file update
 
 Run this one more time.
-apt update -y && apt full-upgrade -y 
+apt update && apt full-upgrade -y 
 
 If nothing needs doing type exit then Ctrl alt z then exit x2 then enter
 
