@@ -118,9 +118,9 @@ https://github.com/Zlocrax/Kali-update
 
 I am on a rootless device but as you can see I have rooted nethunter. I have spent my own free time working on this. So any feedback would be much appreciated thank you, any questions feel free to ask.
 
-A better way to install NH and the only rooted version for both rooted and rootless devices, and now my way the rooted way is now one of the only ways to use nethunter with 0 errors 0 bugs 0 stress. I have spent hours puzzling the Pieces together to get it working again of my own free will, i managed to do this as i specialise in bash and used my knowledge of termux to create this version building a desktop env for nethunter rather than using an installer that comes with a bunch of bugs Everyone can now have access to a linux distro, No matter if your Device is rooted or not and best part about it it doesnt touch your main OS so enjoy my freinds.
+A better way to install NH and the only rooted version for both rooted and rootless devices, and now our way the rooted way is now one of the only ways to use nethunter with 0 errors 0 bugs 0 stress on rootless device's. I ZLO have spent hours puzzling the Pieces together to get it working again of my own free will, i managed to do this as i specialise in bash and used my knowledge of termux to create this version building a desktop env for nethunter rather than using an installer that comes with a bunch of bugs Everyone can now have access to a linux distro, No matter if your Device is rooted or not and best part about it it doesnt touch your main OS so enjoy my freinds.
 
-~$ ZłO
+~$ DresOS Team
 
 ![1000462856](https://github.com/user-attachments/assets/f74e8b29-a1af-45ec-8e9f-13fbfb04f92e)
 ![1000462857](https://github.com/user-attachments/assets/ff96bb37-c2e7-4af3-b7a6-0582b77e5606)
