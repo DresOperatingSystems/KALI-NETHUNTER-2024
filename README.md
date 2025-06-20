@@ -122,6 +122,9 @@ A better way to install NH and the only rooted version for both rooted and rootl
 
 ~$ DresOS Team
 
+please support these projects and buy us a coffee 
+https://coff.ee/dresos
+
 ![1000462856](https://github.com/user-attachments/assets/f74e8b29-a1af-45ec-8e9f-13fbfb04f92e)
 ![1000462857](https://github.com/user-attachments/assets/ff96bb37-c2e7-4af3-b7a6-0582b77e5606)
 ![1000462858](https://github.com/user-attachments/assets/88c50b30-eb34-4308-a5a7-498da84b6049)
