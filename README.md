@@ -6,7 +6,7 @@ Approx 45min - 1hour depending on your network. minimum device requirements 2gb 
 DEPENDICIES:
 
 Download termux for droid either via this link or via the github repository I suggest you do not download the google play store one as it has no regular updates.  
-https://f-droid.org/repo/com.termux_1021.apk
+https://f-droid.org/repo/com.termux_1022.apk     
 Also I reccomend this VNC apk for your desktop environment.
 https://github.com/gujjwal00/avnc
 
