@@ -1,5 +1,4 @@
 # KALI-NETHUNTER-2024
-THE ONLY ROOTED NETHUNTER FOR ROOTLESS DEVICES
 
 Approx 45min - 1hour depending on your network. minimum device requirements 2gb ram, 10-12gb storage
 
