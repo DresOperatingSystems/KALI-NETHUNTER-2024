@@ -158,7 +158,7 @@ yes we made a python script to automate the final steps, just let it run and onc
 ## Exiting NetHunter
 To exit follow the steps we took earlier to stop the VNC and exit Kali/Termux.
 ## Uninstalling Nethunter
-just input this into the Termux cmd line not Nethunters
+Just input this into the Termux cmd line not Nethunters
 ```bash
 wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Uninstaller/Kali/UNI-kali.sh && bash UNI-kali.sh
 ```
