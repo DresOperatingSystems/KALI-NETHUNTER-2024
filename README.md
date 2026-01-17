@@ -1,5 +1,5 @@
 # 3rd Party build for Kali NetHunter on Android
-#####(updated for 2026)
+#### (updated for 2026).
 
 This repository provides a 3rd party build of Kali NetHunter designed for installation on Android devices using Termux. It enables a full Kali Nethunter desktop environment on a VNC for security research.
 
