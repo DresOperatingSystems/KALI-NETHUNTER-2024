@@ -164,8 +164,7 @@ wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/U
 ```
 Now Nethunter is removed from your device.
 ## end notes
-``
-Our very first project release was this 3rd party build of NetHunter back in 2024 (now updated and working again). Honestly, we never thought back then that we'd take things as far as we have now and that's 100% thanks to all of our supporters. Truth is, we started this whole thing just messing around now we have a lifetime of work to be proud of. 
+> Our very first project release was this 3rd party build of NetHunter back in 2024 (now updated and working again). Honestly, we never thought back then that we'd take things as far as we have now and that's 100% thanks to all of our supporters. Truth is, we started this whole thing just messing around now we have a lifetime of work to be proud of. 
 
 Anyways NetHunter was (and kinda still is) notorious for being broken. Rootless installs came with a million errors that made most people just give up and rooted ones could easily bootloop you or straight up hard brick your device. We spent way too many sleepless nights piecing it all together just because it was a challenge.
 
@@ -177,10 +176,10 @@ So out of that love, dedication and our respect for Kali plus the frustration wi
 
 Imagine if we never bothered or couldn't figure it out our whole organisation probably wouldn't even exist right now.
 
-So we want to give the OffSec community a massive thank you especially the Nethunter team for being a massive inspiration to us
-``
+So we want to give the OffSec community a massive thank you especially the Nethunter team for being a massive inspiration to us 
 
 ---
 Thank You and lets keep building            
 **The DresOS Team**           
+
 For questions or issues contact us directly you can find ways to contact us on our website here: https://dresoperatingsystems.github.io/
