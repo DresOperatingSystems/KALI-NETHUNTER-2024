@@ -49,7 +49,7 @@ pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubuser
 ./start-kali.sh
 ```
 Your prompt should change to `root@localhost:~#`.
-## fixing Kali keyring 
+## Fixing Kali keyring 
 Input these commands in the Kali environment before starting or this will not work at all.
 ```bash
 gpg --keyserver keyserver.ubuntu.com --recv-keys 827C8569F2518CC677FECA1AED65462EC8D5E4C5
@@ -80,7 +80,7 @@ After running `apt install -y kali-linux-nethunter` it will fail and when it doe
 ```bash
 apt --fix-broken install
 ```
-The error happens because we are missing certain packages in Termux needed for the build and the cmd above resolves the missing packages and continues the build like we could sit here and create a shell script that installs the right packages.manually so we don't get this error at all but this just works plus every device is different.
+The error happens because we are missing certain packages in Termux needed for the build and the cmd above resolves the missing packages and continues the build like we could sit here and create a shell script that installs the right packages manually so we don't get this error at all but this just works plus every device is different.
 
 Also The process may appear idle while configuring packages in the background do not interrupt or close Termux or you'll need to restart. 
 #### Once finished continue with:
@@ -127,7 +127,7 @@ Once logged in return to Termux and stop the initial VNC session:
 vncserver -kill :1
 ```
 It is no longer needed as by this point our desktop environment should be built
-####Troubleshooting: 
+#### Troubleshooting: 
 If you encounter a black screen on VNC run:
 ```bash
 vncserver -kill :1
@@ -164,7 +164,7 @@ wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/U
 ```
 Now Nethunter is removed from your device.
 ## end notes
-```
+``
 Our very first project release was this 3rd party build of NetHunter back in 2024 (now updated and working again). Honestly, we never thought back then that we'd take things as far as we have now and that's 100% thanks to all of our supporters. Truth is, we started this whole thing just messing around now we have a lifetime of work to be proud of. 
 
 Anyways NetHunter was (and kinda still is) notorious for being broken. Rootless installs came with a million errors that made most people just give up and rooted ones could easily bootloop you or straight up hard brick your device. We spent way too many sleepless nights piecing it all together just because it was a challenge.
@@ -178,9 +178,9 @@ So out of that love, dedication and our respect for Kali plus the frustration wi
 Imagine if we never bothered or couldn't figure it out our whole organisation probably wouldn't even exist right now.
 
 So we want to give the OffSec community a massive thank you especially the Nethunter team for being a massive inspiration to us
-```
+``
 
 ---
-Thank You and lets keep building
-**The DresOS Team**
+Thank You and lets keep building            
+**The DresOS Team**           
 For questions or issues contact us directly you can find ways to contact us on our website here: https://dresoperatingsystems.github.io/
